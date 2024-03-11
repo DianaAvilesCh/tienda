@@ -16,6 +16,7 @@ class App extends BaseConfig
      *
      *    http://example.com/
      */
+    //Se cambio el URL anterior por el de la instancia 
     public string $baseURL = 'http://examen-1-env.eba-ium7gwpu.us-east-2.elasticbeanstalk.com/';
 
     /**
